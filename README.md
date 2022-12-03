@@ -8,11 +8,6 @@ The development of the self-driving car is needed for the safety of driver and p
 
 https://user-images.githubusercontent.com/60110448/155479756-04408afe-6f8c-4e1e-b0dd-0264f48b2dca.mp4
 
-Uploading 085 jQuery Project Solutions Part Three (1).mp4…
-
-
-
-
 
 
 <h2>Probabilistic Hough Transform</h2>
